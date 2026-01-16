@@ -4,7 +4,25 @@ AIPSMS is a comprehensive, intelligent platform designed to bridge the gap betwe
 
  ## 📸 Visual Tour
 
-![image alt](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20195851.png?raw=true)
+![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/video-project.mp4)
+
+![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111021.png?raw=true)
+
+![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111057.png?raw=true)
+
+![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111119.png?raw=true)
+
+![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111141.png?raw=true)
+
+![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111147.png?raw=true)
+
+![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111152.png?raw=true)
+
+![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111159.png?raw=true)
+![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111405.png?raw=true)
+
+![image alt]()
+
 
 ## 🚀 Key Features
 
