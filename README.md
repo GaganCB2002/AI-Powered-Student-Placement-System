@@ -4,7 +4,7 @@ AIPSMS is a comprehensive, intelligent platform designed to bridge the gap betwe
 
  ## 📸 Visual Tour
 
-![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/video-project.mp4)
+
 
 ![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111021.png?raw=true)
 
