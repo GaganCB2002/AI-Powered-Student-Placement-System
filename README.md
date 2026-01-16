@@ -2,6 +2,10 @@
 
 AIPSMS is a comprehensive, intelligent platform designed to bridge the gap between students and recruitment opportunities. Unlike traditional placement systems, AIPSMS utilizes an **AI Engine** to analyze resumes, calculate placement probabilities, and identify skill gaps to provide personalized learning recommendations.
 
+ ## 📸 Visual Tour
+
+![image alt](https://github.com/GaganCB2002/Nexacart_AI_E-Commerce/blob/main/images/Screenshot%202026-01-04%20195851.png?raw=true)
+
 ## 🚀 Key Features
 
 ### Existing & Core Features
