@@ -18,10 +18,11 @@ AIPSMS is a comprehensive, intelligent platform designed to bridge the gap betwe
 
 ![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111152.png?raw=true)
 
+![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20132239.png?raw=true)
 ![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111159.png?raw=true)
 ![image alt](https://github.com/GaganCB2002/AI-Powered-Student-Placement-System/blob/main/Images/Screenshot%202026-01-16%20111405.png?raw=true)
 
-![image alt]()
+
 
 
 ## 🚀 Key Features
